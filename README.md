@@ -20,3 +20,6 @@
 7. Usando internet, busca algunas aplicaciones de redes neuronales artificiales.
 8. ¿Por qué crees que no se usaban redes neuronales hace 50 años? ¿Y hace 500?
 9. Imagina tú otras aplicaciones posibles de redes neuronales.
+
+## Tercera sesión
+- Presentación electricidad atmosférica: <https://www.dropbox.com/s/5io4mwgxw8jeu4z/PIIISA.key?dl=0>
