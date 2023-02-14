@@ -7,8 +7,8 @@
 ## Segunda sesión
 - Redes Neuronales <https://colab.research.google.com/drive/19ra222WVl36YioBcEn7hnUB1IXwZgsb0?usp=sharing>
 - Presentación electricidad atmosférica: <https://www.dropbox.com/s/5io4mwgxw8jeu4z/PIIISA.key?dl=0>
-- <https://colab.research.google.com/drive/1k_EPHuyV_ZpxVWWk03L8iXekG3HJozBA?usp=sharing>
-- Montecarlo <https://colab.research.google.com/drive/1ChF1kjZo_b7reOadHW1tXyiF0B6wOm8Y?usp=sharing>
+- El método de Montecarlo: <https://colab.research.google.com/drive/1ChF1kjZo_b7reOadHW1tXyiF0B6wOm8Y?usp=sharing>
+- Reducción de ruido en streamers: <https://colab.research.google.com/drive/1k_EPHuyV_ZpxVWWk03L8iXekG3HJozBA?usp=sharing>
 
 ## Cuestiones para la tercera sesión:
 1. ¿Qué crees que es el ruido? Pon ejemplos de medidas que pueden tener ruido o ser imprecisas.
