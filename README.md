@@ -7,7 +7,7 @@
 ## Segunda sesión
 - Redes Neuronales <https://colab.research.google.com/drive/19ra222WVl36YioBcEn7hnUB1IXwZgsb0?usp=sharing>
 - <https://colab.research.google.com/drive/1k_EPHuyV_ZpxVWWk03L8iXekG3HJozBA?usp=sharing>
-- <https://colab.research.google.com/drive/1ChF1kjZo_b7reOadHW1tXyiF0B6wOm8Y?usp=sharing>
+- Montecarlo <https://colab.research.google.com/drive/1ChF1kjZo_b7reOadHW1tXyiF0B6wOm8Y?usp=sharing>
 
 ## Cuestiones para la tercera sesión:
 1. ¿Qué crees que es el ruido? Pon ejemplos de medidas que pueden tener ruido o ser imprecisas.
