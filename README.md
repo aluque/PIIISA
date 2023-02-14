@@ -14,9 +14,7 @@
 1. ¿Qué crees que es el ruido? Pon ejemplos de medidas que pueden tener ruido o ser imprecisas.
 2. ¿Para qué nos sirve hacer modelos sobre lo que vemos? Imagina un muelle vertical que sostiene un peso. Inventa un modelo que relacione el peso con la extensión del muelle.
 3. Seguramente el modelo del ejemplo anterior contiene al menos un número (parámetro) que relaciona las dos magnitudes. ¿Cómo harías para encontrar este número si puedes hacer experimentos sobre el muelle con distintos pesos? Imagina el caso en que tus medidas son muy poco precisas (ruidosas).
-4. Inventa una matriz de 4 filas y 4 columnas que represente la imagen de una línea horizontal.
-5. Inventa la matriz de una imagen que contenga sólo ruido. Súmala a la anterior.
-6. ¿Qué es una neurona?
-7. Usando internet, busca algunas aplicaciones de redes neuronales artificiales.
-8. ¿Por qué crees que no se usaban redes neuronales hace 50 años? ¿Y hace 500?
-9. Imagina tú otras aplicaciones posibles de redes neuronales.
+4. ¿Qué es una neurona?
+5. Usando internet, busca algunas aplicaciones de redes neuronales artificiales.
+6. ¿Por qué crees que no se usaban redes neuronales hace 50 años? ¿Y hace 500?
+7. Imagina tú otras aplicaciones posibles de redes neuronales.
