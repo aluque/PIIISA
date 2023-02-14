@@ -4,7 +4,7 @@
 * ¿Qué es una descarga eléctrica?
  
 ## Metodología.
-### Método de montecarlo.
+### Método de Montecarlo.
 
 ### Aprendizaje artificial mediante redes neuronales.
 * ¿Qué es uan red neuronal?
